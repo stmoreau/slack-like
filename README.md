@@ -1,1 +1,1 @@
-# Chat
+# Slack-like
